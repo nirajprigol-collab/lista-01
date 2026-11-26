@@ -1,0 +1,6 @@
+numero = float(input("Digite um número: "))
+
+quadrado = numero ** 2
+raiz = numero ** 0.5 
+
+print(f"O quadrado de {numero} é {quadrado} e a raiz quadrada é {raiz:.2f}.")
