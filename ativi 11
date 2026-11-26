@@ -1,0 +1,6 @@
+reais = float(input("Digite o valor em reais (R$): "))
+taxa_dolar = 5.50
+
+dolares = reais / taxa_dolar
+
+print(f"Com R$ {reais:.2f}, você pode comprar US$ {dolares:.2f}.")
