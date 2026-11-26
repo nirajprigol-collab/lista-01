@@ -1,0 +1,4 @@
+nome = input("Digite o seu nome: ")
+cor = input("Digite a sua cor favorita: ")
+
+print(f"Olá {nome}, sua cor favorita é {cor}!")
